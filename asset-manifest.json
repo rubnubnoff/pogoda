@@ -1,16 +1,13 @@
 {
-  "main.css": "/pogoda/static/css/main.025168a1.chunk.css",
-  "main.js": "/pogoda/static/js/main.51ba4ae1.chunk.js",
-  "main.js.map": "/pogoda/static/js/main.51ba4ae1.chunk.js.map",
+  "main.js": "/pogoda/static/js/main.c179f204.chunk.js",
+  "main.js.map": "/pogoda/static/js/main.c179f204.chunk.js.map",
   "runtime~main.js": "/pogoda/static/js/runtime~main.a579aba6.js",
   "runtime~main.js.map": "/pogoda/static/js/runtime~main.a579aba6.js.map",
   "static/css/2.d4b9ad94.chunk.css": "/pogoda/static/css/2.d4b9ad94.chunk.css",
-  "static/js/2.4cf060f0.chunk.js": "/pogoda/static/js/2.4cf060f0.chunk.js",
-  "static/js/2.4cf060f0.chunk.js.map": "/pogoda/static/js/2.4cf060f0.chunk.js.map",
+  "static/js/2.8f519ba0.chunk.js": "/pogoda/static/js/2.8f519ba0.chunk.js",
+  "static/js/2.8f519ba0.chunk.js.map": "/pogoda/static/js/2.8f519ba0.chunk.js.map",
   "index.html": "/pogoda/index.html",
-  "precache-manifest.ec709c4d1b9c097a5cb724f60334cacb.js": "/pogoda/precache-manifest.ec709c4d1b9c097a5cb724f60334cacb.js",
+  "precache-manifest.47e81d8e8515754c01373bf3130132e4.js": "/pogoda/precache-manifest.47e81d8e8515754c01373bf3130132e4.js",
   "service-worker.js": "/pogoda/service-worker.js",
-  "static/css/2.d4b9ad94.chunk.css.map": "/pogoda/static/css/2.d4b9ad94.chunk.css.map",
-  "static/css/main.025168a1.chunk.css.map": "/pogoda/static/css/main.025168a1.chunk.css.map",
-  "static/media/persik.png": "/pogoda/static/media/persik.4e1ec840.png"
+  "static/css/2.d4b9ad94.chunk.css.map": "/pogoda/static/css/2.d4b9ad94.chunk.css.map"
 }
