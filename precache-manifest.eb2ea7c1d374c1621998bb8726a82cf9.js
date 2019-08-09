@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/pogoda/static/js/runtime~main.a579aba6.js"
   },
   {
-    "revision": "4a70f1a5e832a0b4ef52",
-    "url": "/pogoda/static/js/main.56db897f.chunk.js"
+    "revision": "d817f1141524247b04d0",
+    "url": "/pogoda/static/js/main.2881db56.chunk.js"
   },
   {
     "revision": "69fbd57412d81956af43",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/pogoda/static/css/2.d4b9ad94.chunk.css"
   },
   {
-    "revision": "0e24ffa560783da54193e305b66804e1",
+    "revision": "440276dbd75635d3e639c66336c4ef30",
     "url": "/pogoda/index.html"
   }
 ];
